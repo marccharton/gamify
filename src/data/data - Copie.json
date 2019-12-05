@@ -1,0 +1,43 @@
+{
+	"taskList" : [
+		{
+			"id" : "001",
+			"title" : "lire",
+			"description" : "lire 20 pages par jour",
+			"points" : 10
+		},
+		{
+			"id" : "002",
+			"title" : "développement php pour adrec",
+			"description" : "s'entrainer à dev du php pour pouvoir l'enseigner à l'adrec",
+			"points" : 10
+		}
+	],
+	"rewardList" : [
+		{
+			"id" : "001",
+			"title" : "Escalade",
+			"description" : "Aller faire un session d'escalade",
+			"point" : 150
+		},
+		{
+			"id" : "002",
+			"title" : "Massage",
+			"description" : "Se payer un massage et prendre son pieeeedd",
+			"point" : 500
+		}
+	],
+	"progressList" : [
+		{
+			"taskId" : "001",
+			"amount" : 1
+		},
+		{
+			"taskId" : "002",
+			"amount" : 1
+		}
+	],
+	"profil" : {
+		"points" : 20
+	}
+}
